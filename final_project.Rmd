@@ -286,7 +286,3 @@ The results of this analysis indicate a strong and statistically significant pos
 
 These findings suggest that student academic preparedness, as measured by SAT scores, may be a key factor influencing graduation outcomes at the institutional level. While this does not imply causality, the strong association underscores the potential importance of admissions criteria in institutional performance metrics. One limitation is that other variables—such as financial aid availability, faculty-student ratios, or institutional support programs—were not included in the model but may confound the results. Additionally, because the data are aggregated at the institutional level, we cannot draw conclusions about individual students. Still, the analysis has implications for policy discussions around admissions standards, equity in standardized testing, and institutional accountability.
 
-## Academic Integrity statement
-
-I have not used an AI tool for this assignment.
-
